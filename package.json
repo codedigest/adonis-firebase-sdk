@@ -1,0 +1,28 @@
+{
+  "name": "adonis-firebase-sdk",
+  "version": "1.0.0",
+  "description": "Firebase SDK for AdonisJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDigest/adonis-firebase-sdk.git"
+  },
+  "keywords": [
+    "AdonisJS",
+    "Firebase",
+    "SDK"
+  ],
+  "author": "CodeDigest <development@codedigest.io> (https://codedigest.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeDigest/adonis-firebase-sdk/issues"
+  },
+  "homepage": "https://github.com/CodeDigest/adonis-firebase-sdk#readme",
+  "dependencies": {
+    "firebase": "^4.1.2",
+    "is-empty": "^1.2.0"
+  }
+}
