@@ -1,4 +1,4 @@
-# adonis-parse-sdk
+# adonis-firebase-sdk
 
 JavaScript Firebase SDK wrapper for Adonis JS
 
