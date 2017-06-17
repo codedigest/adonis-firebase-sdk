@@ -4,9 +4,7 @@ const FirebaseSDK = require('firebase')
 class Firebase {
 
   initialize(config) {
-
-    FirebaseSDK.initializeApp(config)
-
+    return FirebaseSDK.initializeApp(config)
   }
 
 }
